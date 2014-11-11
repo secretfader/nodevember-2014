@@ -1,5 +1,5 @@
 var dotaccess = require('dotaccess')
-,   Config    = function () {};
+,   Config    = function (options) { this.options = options; };
 
 Config.prototype.configure = function (options) {
   this.options = options;

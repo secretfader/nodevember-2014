@@ -10,3 +10,5 @@ Quote.pre('save', function (next) {
   if (this.isNew) this.created_at = new Date();
   next();
 });
+
+db.model('Quote', Quote);
