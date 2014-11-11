@@ -16,6 +16,8 @@ Presented here in the repo are several code examples that back up my Nodevember 
 
 All code in this repository is released under the Beerware license. If you like it (or it helps you), give me credit, and buy me a beer (Half Acre, Metropolitan, 5 Rabbit, or Three Floyd's preferred).
 
+Linked or included libraries are available under their own licenses.
+
 **Presentation**
 
 &copy; 2014 Nicholas Young/Original Machine LLC. BY-NC-SA.
