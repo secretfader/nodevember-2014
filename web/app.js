@@ -7,6 +7,9 @@ var path    = require('path')
 ,   socket  = zmq.socket('pull')
 ,   app     = module.exports = express()
 
+// BAD IDEA! (Only doing this for the demo.)
+emitter.setMaxListeners = Infinity;
+
 // Wrapper to setup current IP address.
 require('dns').lookup(require('os').hostname(), function (err, ip) {
   if (err) throw err;
