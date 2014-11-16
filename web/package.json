@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "connect-sse": "^1.0.6",
-    "express": "^4.10.2",
-    "jade": "^1.7.0"
+    "express": "^4.10.2"
   }
 }
