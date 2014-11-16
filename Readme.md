@@ -19,10 +19,6 @@ brew install zeromq
 node publisher/app
 ```
 
-**Windows**
-
-*Sorry... I know nothing about Windows...*
-
 ## License
 
 **Code**
