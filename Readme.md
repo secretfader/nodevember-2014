@@ -10,6 +10,15 @@ What if you could build an application in many tiny pieces, where pieces of your
 
 Presented here in the repo are several code examples that back up my Nodevember talk on this subject. Read through them, and feel free to ask any questions
 
+## Setting Up to Run the Demos
+
+**OS-X**
+
+```
+brew install zeromq
+node publisher/app
+```
+
 ## License
 
 **Code**
