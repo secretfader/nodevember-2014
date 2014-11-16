@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "connect-sse": "^1.0.6",
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "zmq": "^2.8.0"
   }
 }
